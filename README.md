@@ -16,9 +16,13 @@ Please, take into account that all HTML, SaSS and JS files are divided in partia
 
 It is the welcoming page, you should click on 'Comenzar'('Start') to go the create cards page. All the other elements are static.
 
+<img width="2042" alt="Captura de Pantalla 2023-01-24 a las 11 55 18" src="https://user-images.githubusercontent.com/112553001/214273974-956e5c8a-466e-405a-beb1-ec11a666d38e.png">
+
 ### Create card landing
 
 On the left, you can see a toggled form that covers all the options you have to modified and personalized your card. This form can only open one section at a time, and to close one, you need to open another.
+
+<img width="2037" alt="Captura de Pantalla 2023-01-24 a las 11 55 34" src="https://user-images.githubusercontent.com/112553001/214273988-e27a9efa-dcb9-4ce1-a883-577464290bcf.png">
 
 The sections are:
 
